@@ -281,6 +281,8 @@ Planned architecture improvements include:
 - OCR-based price capture
 - broader automated testing
 
+Phase 2 will introduce OCR-based price capture, allowing scanned prices to enter the existing conversion workflow.
+
 ---
 
 ## Summary
