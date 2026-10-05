@@ -29,19 +29,17 @@ The app is being developed as an independent product and technical portfolio pro
 
 ## 📱 Screenshots
 
-Screenshots will be added as development continues.
+### Currency Conversion
 
-<!--
-Suggested filenames:
+<img src="screenshots/conversion-example.jpg" width="280" alt="Home Currency conversion example">
 
-screenshots/home-screen.png
-screenshots/calculator.png
-screenshots/rates-updated.png
+### Integrated Calculator Workflow
 
-Example:
-
-![Home Currency main screen](screenshots/home-screen.png)
--->
+<p>
+  <img src="screenshots/calculator.jpg" width="240" alt="Home Currency calculator">
+  <img src="screenshots/calculator-operation.jpg" width="240" alt="Home Currency calculator operation">
+  <img src="screenshots/calculator-result.jpg" width="240" alt="Home Currency calculator result">
+</p>
 
 ---
 
